@@ -93,7 +93,6 @@ class Library {
   }
 }
 
-// Дополнительное задание к лекции 5
 class Student {
   constructor(name) {
     this.name = name;
